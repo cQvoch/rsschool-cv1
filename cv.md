@@ -1,9 +1,9 @@
 <h1 id="Sergey Evsigneev">Sergey Evsigneev</h1>
   <h3 id="contact">Контакты</h3>
- <p>Phone: +375255233857
- <br>mail: cqvochq@gmail.com
- <br>Telegram: @SERGCQ
- <br>GitHub: cQvoch
+ <p>Phone:<b> +375255233857</b>
+ <br>mail:<b> cqvochq@gmail.com</b>
+ <br>Telegram:<b> @SERGCQ</b>
+ <br>GitHub:<b> cQvoch</b>
  <hr>
 <h1 id='Me'>Обо мне</h1>
  <br>Мне 31 год. Работаю инженером электроником, задачи моей работы-это запуск металообрабатывающих станков с ЧПУ. Есть большое желание учиться и в дальнейшем стать програмистом.
