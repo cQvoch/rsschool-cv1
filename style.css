@@ -78,3 +78,6 @@ body{
   .link:hover {
     color: #5d7260;
   }
+  .rslogo{
+   float:left;
+  }
