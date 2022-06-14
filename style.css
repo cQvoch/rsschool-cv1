@@ -7,6 +7,7 @@
 }
 .main{
     border: 2px solid red;
+    background-color: rgb(192, 192, 192);
 }
 
 .header{
@@ -15,6 +16,7 @@
 }
 .footer{
     border: 2px solid green;
+    background-color: #5d7260;
 }
 body{
     display: flex;
