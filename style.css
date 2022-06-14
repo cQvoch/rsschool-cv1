@@ -7,7 +7,6 @@
 }
 .header {
   background-color: rgb(109, 100, 100);
-  
 }
 .main {
   width: 100%;
@@ -16,9 +15,9 @@
   background-color: rgb(0, 0, 0);
 }
 .footer {
- 
   background-color: #5d7260;
 }
+
 body {
   display: flex;
   flex-direction: column;
