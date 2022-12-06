@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="assets/svg/unnamed.ico">
+  <link rel="preconnect" href="https://fonts.gstatic.com">  
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500;700&display=swap" rel="stylesheet">
+  <title>CV</title>
+</head>
+<body>
+  <header class = "header">
+    <div class="container">
+      <nav class="nav">
+        <ul class="nav-list">
+          <li class="nav-item"><a href="#contacts" class="nav-link">Контакты</a></li>
+          <li class="nav-item"><a href="#summary" class="nav-link">Обо мне</a></li>
+          <li class="nav-item"><a href="#skills" class="nav-link">Образование</a></li>
+          <li class="nav-item"><a href="#lang" class="nav-link">Языки</a></li>
+        </ul>
+      </nav>
+  
+    </div>
+  </header>
+  <main class="main" >
+    <section class="section" id="profile">
+    <div class="main-container">
+    <div class="container">
+      <h1 id="SergeyEvsigneev">Sergey Evsigneev</h1>
+      <h2>ФОТО</h2>
+  <img class="foto" src="/rsschool-cv/assets/img/foto.jpg" alt="my photo">
+  
+  <h2 id="contacts">Контакты</h2>
+ <p>Phone:<b> +375255233857</b>
+ <br>mail:<b> cqvochq@gmail.com</b>
+ <br>Telegram:<b> @SERGCQ</b>
+ <br>GitHub:<b> cQvoch</b>
+ <hr>
+<h2 id='summary'>Обо мне</h2>
+ <br>Мне 31 год. Работаю инженером электроником, задачи моей работы-это запуск металообрабатывающих станков с ЧПУ. Есть большое желание учиться и в дальнейшем стать програмистом.
+ <br>Навыков програмирования не имеется.
+ <br>Примеров кода
+ <br>Опыта работы нету.
+ <hr>
+ <h2 id="skills">Образование: </h2>
+ <br>  Высшее. Белорусский государственный университет информатики и радиоэлектроники. Факультет ФРЭ.
+  <hr>
+  <h2 id="lang">Знание языков:</h2>
+ <br>По результатам лексико-грамматического теста уровень английского Pre-Intermediate (CEFR A2+).
+ <br>
+ </p>
+</div>
+</div>
+</section>
+</main>
+<footer class="footer">
+<div class="container">
+  <a class="rsicon" href="https://rs.school/js/" target="_blank">
+  <img class="rslogo" src="/rsschool-cv/assets/svg/rs_school_js.svg" alt="rslogo">
+  </a>
+</div>
+</footer>
+</body>
+</html>
